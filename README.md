@@ -1,23 +1,23 @@
-## Bem-vindo à LoopUp Solutions – Soluções Fullstack que transformam ideias em realidade
+## Welcome to LoopUp Solutions – Fullstack Solutions That Turn Ideas into Reality
 
-Somos a LoopUp Solutions, equipe de desenvolvedores especializados em soluções tecnológicas completas com React, Java SpringBoot e Python Django. Oferecemos desenvolvimento fullstack, APIs robustas e interfaces modernas, além de correção de bugs. Com 2 anos de experiência e projeto comprovado (AdotE), nossos diferenciais são entrega rápida e comunicação constante. Trabalhamos com AWS e Docker, atendendo todos os nichos de mercado com soluções personalizadas para suas necessidades específicas.
+We are LoopUp Solutions, a team of developers specialized in end-to-end tech solutions using React, Java Spring Boot, and Python Django. We offer fullstack development, robust APIs, modern interfaces, and bug fixing. With 2 years of experience and a proven project (AdotE), our main strengths are fast delivery and constant communication. We work with AWS and Docker, delivering personalized solutions for every market niche.
 
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:loopupsolutions@gmail.com)
 
 ---
 
-## 🚀 O que fazemos
+## 🚀 What We Do
 
-- Desenvolvimento de aplicações web completas (frontend + backend)
-- Integração com APIs externas
-- Sistemas de autenticação e segurança
-- Painéis administrativos e dashboards personalizados
-- Sites institucionais, landing pages e e-commerces
-- Otimização de performance e responsividade
+- Full web application development (frontend + backend)
+- Integration with external APIs
+- Authentication systems and security
+- Custom admin panels and dashboards
+- Institutional websites, landing pages, and e-commerce
+- Performance optimization and responsive design
 
 ---
 
-## 🛠 Tecnologias que utilizamos
+## 🛠 Technologies We Use
 
 <div style="display: inline_block">
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -38,12 +38,12 @@ Somos a LoopUp Solutions, equipe de desenvolvedores especializados em soluções
 
 ---
 
-## 💼 Entre em contato
+## 💼 Get in Touch
 
-Se você está buscando uma equipe para desenvolver seu projeto com qualidade, escalabilidade e atenção aos detalhes, fale com a gente!
+If you're looking for a team to build your project with quality, scalability, and attention to detail, talk to us!
 
-📧 loopupsolutions@gmail.com 
+📧 loopupsolutions@gmail.com
 
 ---
 
-> Transformamos ideias em experiências digitais impactantes.
+> We turn ideas into impactful digital experiences.
